@@ -12,5 +12,4 @@ I'm Eduardo Vinagre, a former lawyer passionate about developing front-end and b
 📫 And also reach me at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com)
 
 
-###  Techs
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,express,tailwind,mysql,postgres,styledcomponents,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
