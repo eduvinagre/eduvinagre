@@ -4,7 +4,7 @@
 I'm Eduardo Vinagre, a former lawyer passionate about developing front-end and back-end solutions. 👨‍💻
 
 ## 🚀 My Hard Skills:
-- 💡 Front-End: React, HTML5, CSS, Tailwind, Styled Components
+- 💡 Front-End: React, HTML5, CSS, Tailwind, Bootstrap, Styled Components
 - 🖥️ Back-End: Node.js, Express, TypeScript, SQL, PostgreSQL, MySQL
 - 🌀 Tools: Nodemon, Vite, SASS, Git
 
