@@ -1,16 +1,16 @@
-### Hi there 👋
+### HELLO WORLD!
 
-<!--
-**eduvinagre/eduvinagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Eduardo Vinagre, a former lawyer passionate about developing front-end and back-end solutions. 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Hard Skills:
+- 💡 Front-End: React, HTML5, CSS, Tailwind, Styled Components
+- 🖥️ Back-End: Node.js, Express, TypeScript, SQL, PostgreSQL, MySQL
+- 🌀 Tools: Nodemon, Vite, SASS, Git
+
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+📫 And also reach me at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com)
+
+
+###  Techs
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,express,tailwind,mysql,postgres,styledcomponents,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
