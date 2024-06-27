@@ -13,4 +13,4 @@ I'm Eduardo Vinagre, a former lawyer passionate about developing front-end and b
 ## 📫 And also reach me at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,express,redux,tailwind,mysql,postgres,sequelize,styledcomponents,bootstrap,css,html,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,express,redux,tailwind,mysql,postgres,sequelize,sass,styledcomponents,bootstrap,css,html,git,vite,vitest,jest,npm,notion&theme=light)](https://skillicons.dev)
