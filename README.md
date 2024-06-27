@@ -8,9 +8,9 @@ I'm Eduardo Vinagre, a former lawyer passionate about developing front-end and b
 - 🖥️ Back-End: Node.js, Axios, Express, TypeScript, SQL, PostgreSQL, MySQL
 - 🌀 Tools: Nodemon, Vite, Git
 
-# 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+## 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/eduvinagre)
 
-# 📫 And also reach me at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com)
+## 📫 And also reach me at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com)
 
 ## My Skills
 <p align="center">
