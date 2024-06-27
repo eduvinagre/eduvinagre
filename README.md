@@ -8,7 +8,8 @@ I'm Eduardo Vinagre, passionate about developing front-end and back-end solution
 - 🖥️ Back-End: Node.js, Axios, Express, TypeScript, SQL, PostgreSQL, MySQL
 - 🌀 Tools: Nodemon, Vite, Git
 
-## 📫 You can find me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/eduvinagre)
+## 📫 You can find me on 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/eduvinagre)
 
 ## 📫 And also reach me at [eduvinagre@gmail.com](mailto:eduvinagre@gmail.com)
 
