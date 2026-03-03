@@ -17,6 +17,6 @@ I'm Eduardo Vinagre, passionate about developing front-end and back-end solution
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,express,redux,skala, vue,tailwind,mysql,postgres,sequelize,sass,styledcomponents,bootstrap,css,html,git,vite,vitest,jest,npm,notion&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,express,redux,skala,vue,tailwind,mysql,postgres,sequelize,sass,styledcomponents,bootstrap,css,html,git,vite,vitest,jest,npm,notion&theme=dark" />
   </a>
 </p>
